@@ -33,8 +33,8 @@ Developed an **electronic letter box** that **senses incoming letters** and send
 - **Web Development:** Strong knowledge in **HTML, CSS, and JavaScript** for creating dynamic and responsive web pages.  
 
 ## 📫 Get in Touch  
-- LinkedIn: [Shreyas Hiremath](https://linkedin.com/in/shreyas-hiremath)  
-- Email: [shreyas.hiremath@example.com](mailto:shreyas.hiremath@example.com)  
+- LinkedIn: [Shreyas Hiremath](https://www.linkedin.com/in/shreyas-hiremath-21b22025b/)  
+- Email: [shreyas.hiremath](mailto:shreyashiremath7777@gmail.com)  
 
 ---
 
